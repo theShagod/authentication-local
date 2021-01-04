@@ -30,3 +30,6 @@ Learning about authentication... After pulling my teeth out for a couple of days
  5) Draw a picture of structure.
 
 ![file structure](./file-structure.jpg)
+
+### Credits
+Learned from [Traversy](https://www.youtube.com/watch?v=6FOq4cUdH8k)
