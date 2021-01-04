@@ -1,0 +1,11 @@
+{
+    "development": {
+        "host": "localhost",
+        "database": "authentication",
+        "username": "root",
+        "password": "newpassword",
+        "dialect": "mysql",
+        "logging":true
+    }
+    
+}
